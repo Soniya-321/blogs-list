@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+.user-img {
+  height: 80px;
+  width: 80px;
+}
+.user-name {
+  font-size: 20px;
+}
+.user-designation {
+  font-size: 15px;
+  color: #616e7c;
+}
